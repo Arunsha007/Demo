@@ -1,0 +1,16 @@
+1. var n:String?=null
+    println("length of the n:${n?.length}")
+
+    var nn:String?="arun"
+    println("length of the n:${nn?.length}")
+
+for nn we have are decleaed the value but why we need to use Safe Call?
+
+
+Day 2:
+
+Complete the badges of Kotlin
+1.Conditional statement
+2.Arrays and List
+3.Loops
+4.Functions and it's return type
