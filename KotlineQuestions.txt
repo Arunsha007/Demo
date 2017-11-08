@@ -17,3 +17,9 @@ Complete the badges of Kotlin
 
 
 Day 3:
+
+I did some coding in Collections using Kotlin
+
+Day4:
+
+Started by how git using and what is github
